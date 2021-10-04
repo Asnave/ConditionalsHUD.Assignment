@@ -8,13 +8,17 @@ namespace ConditionalsHUD.Assignment
 {
     class Program
     {
-        string ;
+        
+
+        static int weapon;
         static int health = 100;
         static int damage = -20;
         static int hp = +10;
+        static string currentWeapon;
 
         static void ChangeWeapon()
         {
+            
 
         }
 
@@ -25,18 +29,28 @@ namespace ConditionalsHUD.Assignment
 
         static void Heal()
         {
+
             health = health + hp;
         }
         static void ShowHUD()
         {
             Console.WriteLine("------HUD------");
             Console.WriteLine("Health: " + health);
-            Console.WriteLine("Current Weapon: ");
+            Console.WriteLine("Current Weapon: " + currentWeapon);
             Console.WriteLine("---------------");
         }
         static void Main(string[] args)
         {
+            string weaponZero;
+            weaponZero = "Pistol";
+
+            if(weapon == 0)
+            {
+                currentWeapon = weaponZero;
+            }
+
             ShowHUD();
+            weapon = 0;
             TakeDamage();
             ShowHUD();
             Heal();
