@@ -1,0 +1,7 @@
+C:\Users\cdn_a\Downloads\ConditionalsHUD.Assignment-main\ConditionalsHUD.Assignment-main\ConditionalsHUD.Assignment\bin\Debug\ConditionalsHUD.Assignment.exe.config
+C:\Users\cdn_a\Downloads\ConditionalsHUD.Assignment-main\ConditionalsHUD.Assignment-main\ConditionalsHUD.Assignment\bin\Debug\ConditionalsHUD.Assignment.exe
+C:\Users\cdn_a\Downloads\ConditionalsHUD.Assignment-main\ConditionalsHUD.Assignment-main\ConditionalsHUD.Assignment\bin\Debug\ConditionalsHUD.Assignment.pdb
+C:\Users\cdn_a\Downloads\ConditionalsHUD.Assignment-main\ConditionalsHUD.Assignment-main\ConditionalsHUD.Assignment\obj\Debug\ConditionalsHUD.Assignment.csproj.AssemblyReference.cache
+C:\Users\cdn_a\Downloads\ConditionalsHUD.Assignment-main\ConditionalsHUD.Assignment-main\ConditionalsHUD.Assignment\obj\Debug\ConditionalsHUD.Assignment.csproj.CoreCompileInputs.cache
+C:\Users\cdn_a\Downloads\ConditionalsHUD.Assignment-main\ConditionalsHUD.Assignment-main\ConditionalsHUD.Assignment\obj\Debug\ConditionalsHUD.Assignment.exe
+C:\Users\cdn_a\Downloads\ConditionalsHUD.Assignment-main\ConditionalsHUD.Assignment-main\ConditionalsHUD.Assignment\obj\Debug\ConditionalsHUD.Assignment.pdb
